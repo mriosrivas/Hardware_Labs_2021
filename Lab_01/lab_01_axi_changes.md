@@ -4,6 +4,12 @@ The following changes were made for you to use Lab_01:
     
 #### Top module: `lab_01_ip_v1_0`
 
+* Added lines `51-53` with:
+  
+	`.to_in_a(to_in_a),`
+	`.to_in_b(to_in_b),`
+	`.from_out(from_out),`
+  
 * Added lines `75-83` with:
   
 	`wire [15:0] to_in_a;
